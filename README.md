@@ -1,4 +1,4 @@
-# Muscic Reviews Application
+# Music Reviews Application
 
 ## Descripción
 Aplicación de reseñas de musica construida con Node.js, Express, React y MongoDB, y contenida con Docker.
