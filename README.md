@@ -8,3 +8,6 @@ Aplicación sencilla de reseñas de musica construida con Node.js, Express, Reac
 - **Frontend**: React.js
 - **Base de Datos**: MongoDB
 - **Contenedores**: Docker y Docker Compose
+
+## Video 
+- https://drive.google.com/file/d/1yb2e6tirHrJfsPOUQRR9eEOQurTfTs_a/view?usp=sharing
